@@ -1,0 +1,23 @@
+
+{
+  "treks": [
+      {
+          "id": 1,
+          "name": "Valley of Flowers Trek",
+          "location": "Uttarakhand",
+          "difficulty": "Moderate",
+          "duration": "6 days",
+          "description": "Beautiful trek through flower valleys",
+          "image": "valley.jpg"
+      },
+      {
+          "id": 2,
+          "name": "Kedarkantha Trek",
+          "location": "Uttarakhand",
+          "difficulty": "Easy",
+          "duration": "5 days",
+          "description": "Perfect winter trek for beginners",
+          "image": "kedarkantha.jpg"
+      }
+  ]
+}
